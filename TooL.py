@@ -1,9 +1,6 @@
 # Tgx22-2-
 import os 
 import time
-os.system("clear")
-os.system("date")
-os.system("time")
 time.sleep(3.5)
 print("")
 time.sleep(2.5)
